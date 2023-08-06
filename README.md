@@ -12,9 +12,8 @@ Before running the code, ensure you have the following dependencies installed:
 
 You can install these dependencies using the following command:
 
-```bash
 pip install pandas numpy scikit-learn
-
+```bash
 
 ## Getting Started ##
 Clone the repository:
