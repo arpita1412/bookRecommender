@@ -12,7 +12,7 @@ Before running the code, ensure you have the following dependencies installed:
 
 You can install these dependencies using the following command:
 
-print(pip install pandas numpy scikit-learn)
+pip install pandas numpy scikit-learn
 
 ## Getting Started ##
 Clone the repository:
@@ -22,15 +22,15 @@ https://github.com/arpita1412/bookRecommender.git
 ## Files Included ##
 1. book_recommender_system.ipynb :
 
-   It includes processes like:
+It includes processes like:
 
-Loading and preprocessing book-related data.
+-> Loading and preprocessing book-related data.
 
-Implementing a recommendation algorithm (e.g., collaborative filtering or content-based).
+-> Implementing a recommendation algorithm (e.g., collaborative filtering or content-based).
 
-Generating book suggestions for users based on their preferences using a mechanism like cosine similarity, matrix factorization, or nearest neighbors.
+-> Generating book suggestions for users based on their preferences using a mechanism like cosine similarity, matrix factorization, or nearest neighbors.
 
-Evaluating the system's performance using metrics like accuracy or MSE.
+-> Evaluating the system's performance using metrics like accuracy or MSE.
 
 Finally outputs a matrix of cosine similarity scores between famous books. These scores indicate the similarity between pairs of books, which can be used to provide personalized book recommendations to users.
 
