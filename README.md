@@ -34,7 +34,7 @@ It includes processes like:
 
 Finally outputs a matrix of cosine similarity scores between famous books. These scores indicate the similarity between pairs of books, which can be used to provide personalized book recommendations to users.
 
-## Screensot Of Output ##
+## Screenshot Of Output ##
 
 <img width="773" alt="output ss" src="https://github.com/arpita1412/bookRecommender/assets/128537199/f923be25-97f3-431e-a3d0-80333d548e4e">
 
