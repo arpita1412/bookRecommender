@@ -19,7 +19,9 @@ pip install pandas numpy scikit-learn
 ## Getting Started ##
 Clone the repository:
 
+```
 https://github.com/arpita1412/bookRecommender.git
+```
 
 ## Files Included ##
 1. book_recommender_system.ipynb :
